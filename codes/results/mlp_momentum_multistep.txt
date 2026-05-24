@@ -1,0 +1,5 @@
+run_name=mlp_momentum_multistep
+best_valid_acc=0.9701
+final_lr=0.03
+curve=figs\mlp_momentum_multistep_curve.png
+model=best_models\mlp_momentum_multistep.pickle

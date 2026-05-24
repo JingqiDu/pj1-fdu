@@ -1,0 +1,5 @@
+run_name=mlp_sgd_multistep
+best_valid_acc=0.9085
+final_lr=0.03
+curve=figs\mlp_sgd_multistep_curve.png
+model=best_models\mlp_sgd_multistep.pickle

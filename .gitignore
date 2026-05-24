@@ -1,0 +1,9 @@
+codes/dataset/
+codes/best_models/
+codes/saved_models/
+*.pickle
+*.zip
+__pycache__/
+*.pyc
+idx.pickle
+.DS_Store

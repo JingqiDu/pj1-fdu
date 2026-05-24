@@ -1,0 +1,5 @@
+run_name=cnn_sgd_multistep
+best_valid_acc=0.9369
+final_lr=0.03
+curve=figs\cnn_sgd_multistep_curve.png
+model=best_models\cnn_sgd_multistep.pickle
