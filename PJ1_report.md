@@ -157,7 +157,7 @@ One limitation is that the recorded experiments use a short one-epoch setting to
 
 ## Appendix: Code and Model Links
 
-Github code link:  
+Github code link:  https://pan.quark.cn/s/f95aa1f2d1bb（老师抱歉这几天我github出了点问题）
 Model/checkpoint link: the same with the github link
 
 The final checkpoint package is `pj1_weights.zip`, which contains the four checkpoints used in the report:
